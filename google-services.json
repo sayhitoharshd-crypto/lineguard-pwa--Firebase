@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "677986213198",
+    "project_id": "lineguard-68bb0",
+    "storage_bucket": "lineguard-68bb0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677986213198:android:c0666d3a7987c21ab9d21f",
+        "android_client_info": {
+          "package_name": "com.lineguard.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677986213198-j9bs51bbnb3pnejedqahhr7mrfp1ki90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSTU6elUZN2i8z3wgzVlhoKISxjA3bMp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677986213198-j9bs51bbnb3pnejedqahhr7mrfp1ki90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
